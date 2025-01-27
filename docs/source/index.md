@@ -14,7 +14,7 @@ You can find detailed information on this site about the software I have develop
 
   - [My Connect Series Add-ins](../connect_series_add_ins/index)
 
-  - [Desktop Applications](../desktop_applications/index)
+  - [My Desktop Applications](../desktop_applications/index)
 
   - [Civil Engineering Experience](../civil_engineer_portfolio/index)
 

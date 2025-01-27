@@ -96,6 +96,7 @@ html_theme_options: Dict[str, Any] = {
     "source_repository": "https://github.com/pradyunsg/furo/",
     "source_branch": "main",
     "source_directory": "docs/",
+
 }
 
 if "READTHEDOCS" in os.environ:
@@ -109,8 +110,8 @@ if "READTHEDOCS" in os.environ:
 
 html_js_files = []
 html_context: Dict[str, Any] = {}
-# html_show_sphinx = False
-# html_show_copyright = False
+html_show_sphinx = False
+html_show_copyright = False
 # html_last_updated_fmt = ""
 
 RTD_TESTING = False
@@ -149,11 +150,4 @@ if FONT_AWESOME_TESTING:
             "class": "fa-brands fa-solid fa-github fa-2x",
         },
     ]
-
-html_context = {
-    "theme": {
-        "dark": False,  # Forces light mode by default
-    }
-}
-
 

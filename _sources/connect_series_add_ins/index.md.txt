@@ -1,4 +1,4 @@
-# Softwares I Developed for the Connect Series
+# My Connect Series Add-ins
 
 It is possible to make the Connect Series even more powerful with .Net. In this section, you can access the software I have developed for the Connect Series.
 

@@ -24,7 +24,7 @@ My work was not just a software change for design but also a process that involv
 <details style="border: 0px solid #ccc; padding: 10px; border-radius: 0px; cursor: pointer;  ">
   <summary><b>Learn About Libraries<i class="fas fa-arrow-right"></i></b></summary>
 
-> Libraries Required for Design Implementation:
+> Libraries Required for Design & Drawings:
 >
 > **Definition Libraries** Unlike Inroads, in the Connect Series, you need to define what you are creating in advance for the program. (Think of it as being unable to create an alignment in Inroads without assigning a style.) The visual characteristics of your alignment, such as how it looks, and some of its automatic capabilities are derived from feature definitions. There are four basic definitions from top to bottom:
 > 	- Feature Definition (Top level definition. i.e "Alignment")
