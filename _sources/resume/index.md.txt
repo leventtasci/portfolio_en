@@ -21,6 +21,6 @@ After transferring ownership of my company in May 2023, I took on the role of "S
 During this process, I gained experience in the [production and management strategies for BIM resources](../connect_series_background/bentley_systems_distributor), which are essential in today's era.
 
 
-[**Click here to download my resume in Word format.**](https://drive.google.com/uc?export=download&id=1-ZK50nPUEjHEQP2XQRik3YGZ6S9xzehu).
+<a href="https://drive.google.com/uc?export=download&id=1-ZK50nPUEjHEQP2XQRik3YGZ6S9xzehu" download><strong>Click here to download my resume in Word format.</strong></a>
 
 </div>
