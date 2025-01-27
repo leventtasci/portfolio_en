@@ -21,7 +21,6 @@ You can find detailed information on this site about the software I have develop
   - [Shared Content](../shared_content/index)
 
 
-
 ```{toctree}
 :hidden:
 resume/index
