@@ -4,7 +4,7 @@ hide-toc: true
 
 # Hello
 
-You can find detailed information on this site about the software and engineering projects I have developed over the years to meet my professional needs.
+You can find detailed information on this site about the software I have developed over the years to meet my professional needs and engineering projects I have participated in.
 
   - [Resume](resume/index)
 

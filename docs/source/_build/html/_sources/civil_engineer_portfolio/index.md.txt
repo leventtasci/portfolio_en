@@ -1,8 +1,8 @@
-# İnşaat Mühendisliği Tecrübelerim
+# Civil Engineering Experience
 
-On altı yıl boyunca görev aldığım projelere ait detaylara buradan ulaşabilirsiniz.
+You can access the details of the projects I have worked on for the past seventeen years here.
 
-  - [Görev Aldığım Projeler](../civil_engineer_portfolio/civil_projects)
+  - [Projects I Have Participated In](../civil_engineer_portfolio/civil_projects)
 
 ```{toctree}
 :hidden:

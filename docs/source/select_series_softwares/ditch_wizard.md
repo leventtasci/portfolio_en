@@ -11,22 +11,22 @@
   ></iframe>
 </div>
 
-  ![Ditch Wizard UI](../_static/ditch_wizard_ui.png){ style="float: left; margin-right: 20px; margin-top: 5px; padding-right: 10px; max-width: 45%; height: auto;" }
+  <img src="../_static/ditch_wizard_ui.png" alt="Ditch Wizard UI" style="float: left; margin-right: 20px; margin-top: 5px; padding-right: 10px; max-width: 40%; height: auto;">
 
 <div style="text-align: justify;">
 
-## **Observations**
+## Observations
 
 The calculations and drawings of head, toe, cut, and side ditches are among the most important positions of the "Drainage" category, requiring a significant amount of time and labor. There is no widely used international standard project tool for this. Tools within Storm & Sanitary cannot produce sufficient details for production projects.
 
-## **Achievements**
+## Achievements
 
 - Ditch Wizard provides full calculation, quantity takeoff, and drawing for all ditches in longitudinal drainage.
 - The calculations include international standards (specific energy, shear stress, slope, etc.).
 - The drawings can be customized according to the project.
 - It works in conjunction with Inroads, eliminating the need for additional reports.
 
-## **Key Features**
+## Key Features
 
 - Ditches are transferred to the calculation sheet with one selection, establishing a connection with the relevant route and DTM, and elevation and station information are written to the ditch.
 - The calculation sheet has two different modes: 

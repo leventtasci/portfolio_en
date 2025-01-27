@@ -14,7 +14,7 @@
   
 <div style="text-align: justify;">
 
-  ## Determinations
+  ## Observations
 
 <h3 style="margin-top: 0;">Time and Labor Management</h3>
 

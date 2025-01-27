@@ -3,7 +3,7 @@
 
 ## Headlines
 
-Between June 2023 and February 2025, I developed the tools, settings, and configurations necessary for the utilization of Bentley Systems' Connect Series programs while working with Bentley Systems' Turkey distributor. Although my work predominantly focused on road-related projects due to my background in highway design, I also carried out extensive work in the area of **Configuration**.
+Between June 2023 and February 2025, I developed the tools, settings, and configurations necessary for the utilization of Bentley Systems' Connect Series programs while working with Bentley Systems' Turkey distributor. Although my work predominantly focused on road-related **Libraries** & **Civil Cells** due to my background in highway design, I also carried out extensive work in the area of **Configuration**.
 
 When I began working with the distributor in June 2023, there were no prior efforts in Turkey in this area. Starting with an empty folder, I devoted significant time and effort to build these solutions.
 
@@ -100,7 +100,7 @@ Below, you can see the configuration system I prepared for the Authorizer. Since
     <img src="../_static/config_auth_1.png" alt="Config Auth" style="margin: 5px auto; padding: 0px; height: auto; display: block;">
 </div>
 
-The configuration is not limited to OpenRoads/OpenRail Designer. The systems I have created are designed to be compatible with all Bentley Systems programs. For example, an architectural team using Microstation, a bridge group using OpenBridge, etc., can all access the same title blocks, layers, and calculation files from the same source. BIM is not only related to the digital approval of your projects. The configuration systems I have designed, although not specifically related to project management, are structured in a way that supports the Single Source of Truth, which is one of the most important requirements of BIM, in the context of resource management, improving users' workflows. This is precisely how it should be.
+The configuration is not limited to OpenRoads/OpenRail Designer. **The systems I have created are designed to be compatible with all Bentley Systems programs**. For example, an architectural team using Microstation, a bridge group using OpenBridge, etc., can all access the same title blocks, layers, and calculation files from the same source. BIM is not only related to the digital approval of your projects. The configuration systems I have designed, although not specifically related to project management, are structured in a way that supports the Single Source of Truth, which is one of the most important requirements of BIM, in the context of resource management, improving users' workflows. This is precisely how it should be.
 
 Below, you can see the configuration system I created for **Contractor**. As you can see, it is possible to integrate project teams using different Connect Series programs into a unified system.
 
@@ -139,7 +139,7 @@ Creating a video for YouTube is a very labor-intensive task. It was not possible
 
 - **Drawings**
   - Preparation of **cross-section sheets** (A0 and Rolled A0)
-  - Creation of **Plan and Profile-Rolled** sheets
+  - Creation of **Plan and Profile-Roll** sheets
   - Creation of **A1-plan&profile** sheets in KGM format
   - Creation of **A1-plan&profile** sheets in **construction format** (global)
   - **Automatic numbering** of sheets using **Sheet Index**
@@ -196,11 +196,11 @@ To manage the system on the ADMIN side:
 ## Results
 
 <details style="border: 0px solid #ccc; padding: 10px; border-radius: 0px; cursor: pointer;  ">
-  <summary><b>Ancak Add-in'ler ile başarılabilecek konular hakkıda bilgi edinin <i class="fas fa-arrow-right"></i></b></summary>
+  <summary><b>Learn about the topics that can be achieved with Add-ins only<i class="fas fa-arrow-right"></i></b></summary>
 
 > No ready-made solutions available in OpenRoads/OpenRail Designer for the followings:
 > 
-> - Side slopes
+> - Side slopes (existing solution in the softwares not suitable for the needs in our region)
 >
 > - Drawing horizontal axis information and preparing route tables
 >

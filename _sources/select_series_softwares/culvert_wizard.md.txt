@@ -11,20 +11,20 @@
   ></iframe>
 </div>
 
-  ![Culvert Wizard UI](../_static/culvert_wizard_ui.png){ style="float: left; margin-right: 20px; margin-top: 5px; padding-right: 10px; max-width: 40%; height: auto;" }
-  
+  <img src="../_static/culvert_wizard_ui.png" alt="Culvert Wizard UI" style="float: left; margin-right: 20px; margin-top: 5px; padding-right: 10px; max-width: 40%; height: auto;">
+
 <div style="text-align: justify;">
 
-## **Findings**
+## Observations
 
 There are two different programs commonly used for culvert cross-sections and plan layouts. One is a code that places “small” type structures in 2D, while the other places large culverts in 3D. Both of them use MSAccess as the database, which is not a common engineering program. These codes do not work in conjunction with Inroads, and their inputs are reports in text and/or XML format obtained from Inroads.
 
-## **Achievements**
+## Achievements
 - Provides a complete solution for box culverts without the need for any additional auxiliary tools. Separate software is not needed for quantity takeoff or sheet generation services. It integrates culvert projects into a complete end product.
 - The Culvert Wizard works in 3D for both small and large culverts and connects directly to Inroads to read cross-section and alignment data without requiring any reports. This reduces errors and increases speed in the work.
 - The database has been created in a detailed format in Excel by analyzing KGM (General Directorate of Highways) sources. Its acceptance criteria are defined (e.g., wells) and its scope can be expanded by engineers.
 
-## **Key Features**
+## Key Features
 
 - Offers two options for placing the culvert in the plan and cross-section:
    1. Reads from Inroads

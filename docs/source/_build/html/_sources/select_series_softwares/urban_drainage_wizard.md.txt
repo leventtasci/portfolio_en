@@ -4,7 +4,7 @@
 
   <img src="../_static/urban_drainage_wizard_ui.png" alt="Urban Drainage Wizard UI" style="float: left; margin-right: 20px; margin-top: 5px; padding-right: 10px; max-width: 45%; height: auto;">
   
-<div style="text-align: justify;">
+<div style="text-align: justify;" margin-top: 0px;>
 
 ## Observations
 
